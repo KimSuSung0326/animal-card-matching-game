@@ -17,4 +17,4 @@ C언어를 연습하면서 포인터와 배열에 대해 조금 더 자세히 �
 4. 최종적으로 모든 동물을 다 찾는다면 게임이 끝낱다고 알려주고 총 틀린 횟수를 알려줍니다.
   
 ### 기능 구현 영상
-<img src= "https://github.com/KimSuSung0326/helloworld/assets/125198053/a840072d-9ed9-4000-8a98-b02268455d51" width= "700px" height = "500px">
+<img src= "https://github.com/KimSuSung0326/animal-card-matching-game/assets/125198053/b1672043-6334-449e-accc-7bfbef99ef75" width= "700px" height = "500px">
